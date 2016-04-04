@@ -647,10 +647,10 @@ distributor Farnell 149-452</description>
 <pad name="3" x="-3.8" y="0" drill="2"/>
 <text x="-3.31" y="10.58" size="1.27" layer="25">&gt;NAME</text>
 <text x="-3.31" y="-7.35" size="1.27" layer="27">&gt;VALUE</text>
-<wire x1="-6.5" y1="-5" x2="6.5" y2="-5" width="0.127" layer="21"/>
-<wire x1="6.5" y1="-5" x2="6.5" y2="9.5" width="0.127" layer="21"/>
+<wire x1="-6.5" y1="-4.4" x2="6.5" y2="-4.4" width="0.127" layer="21"/>
+<wire x1="6.5" y1="-4.4" x2="6.5" y2="9.5" width="0.127" layer="21"/>
 <wire x1="6.5" y1="9.5" x2="-6.5" y2="9.5" width="0.127" layer="21"/>
-<wire x1="-6.5" y1="9.5" x2="-6.5" y2="-5" width="0.127" layer="21"/>
+<wire x1="-6.5" y1="9.5" x2="-6.5" y2="-4.4" width="0.127" layer="21"/>
 <wire x1="-6.5" y1="9.5" x2="6.5" y2="9.5" width="0.127" layer="51"/>
 <wire x1="6.5" y1="9.5" x2="6.5" y2="-5" width="0.127" layer="51"/>
 <wire x1="6.5" y1="-5" x2="-6.5" y2="-5" width="0.127" layer="51"/>
